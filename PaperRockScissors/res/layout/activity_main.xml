@@ -5,6 +5,7 @@
     android:clipChildren="false"
     tools:context=".MainActivity"
     android:id="@+id/RelativeLayout1"
+    android:background="#336699"
      >
 
     <LinearLayout
