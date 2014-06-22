@@ -29,6 +29,8 @@ import android.widget.ImageButton;
 
 public class MainActivity extends Activity {
 	
+	// Comment test
+	
 	ImageButton btnPaper;
 	ImageButton btnRock;
 	ImageButton btnScissor;
