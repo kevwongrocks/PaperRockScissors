@@ -31,6 +31,8 @@ public class MainActivity extends Activity {
 	
 	// Comment test
 	
+	// kevin ejfkdlfj dlkfj aflkdj faklfj dafkldj fkl
+	
 	ImageButton btnPaper;
 	ImageButton btnRock;
 	ImageButton btnScissor;
